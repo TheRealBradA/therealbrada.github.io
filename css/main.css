@@ -14,9 +14,9 @@ nav ul, footer ul {
     font-weight: bold;
 }
 
-nav ul {
+/*nav ul {
     margin-left: 305px;
-}
+}*/
 
 nav ul li, footer ul li {
     display: inline;
