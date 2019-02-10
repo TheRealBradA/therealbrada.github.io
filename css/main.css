@@ -57,3 +57,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.textWrap{
+            float:left;
+            margin:10px;            
+        }
+
+        .textWrap p{
+            padding-top:3px;
+        }
